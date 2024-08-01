@@ -1,7 +1,19 @@
 {
-  exercises: {
-    reading: {
-      title: "Reading"
+  "exercises": {
+    "reading": {
+      "title": "Reading"
+    },
+    "vocabulary": {
+      "title": "Vocabulary"
+    },
+    "grammar": {
+      "title": "Grammar"
+    },
+    "listening": {
+      "title": "Listening"
+    },
+    "chat": {
+      "title": "Chat"
     }
   }
 }
