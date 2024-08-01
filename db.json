@@ -1,1 +1,7 @@
-
+{
+  exercises: {
+    reading: {
+      title: "Reading"
+    }
+  }
+}
