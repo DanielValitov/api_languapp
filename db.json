@@ -1,19 +1,24 @@
 {
   "exercises": {
     "reading": {
-      "title": "Reading"
+      "title": "Reading",
+      "tasks": [{}, {}, {}]
     },
     "vocabulary": {
-      "title": "Vocabulary"
+      "title": "Vocabulary",
+      "tasks": [{}, {}, {}]
     },
     "grammar": {
-      "title": "Grammar"
+      "title": "Grammar",
+      "tasks": [{}, {}, {}]
     },
     "listening": {
-      "title": "Listening"
+      "title": "Listening",
+      "tasks": [{}, {}, {}]
     },
     "chat": {
-      "title": "Chat"
+      "title": "Chat",
+      "tasks": [{}, {}, {}]
     }
   }
 }
